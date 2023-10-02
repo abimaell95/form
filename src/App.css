@@ -1,0 +1,404 @@
+.QVLX1 {
+  position: absolute;
+  inset-block-start: 0px;
+  inset-inline: 0px;
+  z-index: 30;
+}
+
+.ddGQhK{
+  width: 100%;
+  height: 4px;
+  overflow: hidden;
+  background-color: rgba(55, 64, 74, 0.3);
+  position: relative;
+}
+
+.hxwEWy{
+  height: 100%;
+  background-color: rgb(55, 64, 74);
+  transition: all 0.4s ease 0s;
+}
+
+.gtebR{
+  color: rgb(38, 38, 39);
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 4px, rgba(0, 0, 0, 0.06) 0px 2px 12px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.feCrOL{
+  position: absolute;
+  inset-block-end: 0px;
+  inset-inline: 0px;
+  z-index: 10;
+  opacity: inherit;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.iEKGNA{
+  transition: background-color 500ms cubic-bezier(0.23, 1, 0.32, 1) 0s;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.eHOVft{
+  width: 100%;
+  display: flex;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  flex-direction: row-reverse;
+  font-family: sans-serif;
+  padding: 16px;
+  pointer-events: none;
+}
+
+.llgSRH{
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  width: auto;
+  box-shadow: none;
+  border-radius: 4px;
+  user-select: none;
+  line-height: 0;
+  background-color: transparent;
+  pointer-events: auto;
+  white-space: nowrap;
+}
+
+.IdseW{
+  display: flex;
+  flex-direction: row-reverse;
+  border-radius: 4px;
+  background-color: rgb(55, 64, 74);
+  margin-inline-end: 8px;
+}
+
+.casmRy{
+  position: relative;
+  font-family: inherit;
+  line-height: initial;
+  font-weight: 700;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  transition-property: background-color, color, border-color, opacity, box-shadow;
+  transition-timing-function: ease-out;
+  outline: none;
+  border: 1px solid transparent;
+  margin: 0px;
+  padding: 0px;
+  width: 48px;
+  min-width: 48px;
+  height: 44px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(55, 64, 74);
+  color: rgb(255, 255, 255);
+  border-start-start-radius: 0px;
+  border-start-end-radius: 4px;
+  border-end-end-radius: 4px;
+  border-end-start-radius: 0px;
+}
+
+.jkLxdx{
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 1px;
+}
+
+.dPEuYY {
+  width: 100%;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.kExVkt {
+  transition: all 0.2s ease 0s;
+}
+
+.eNNUTr {
+  margin: 0px;
+  max-width: 100%;
+  width: inherit;
+  font-weight: unset;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.fUtdUI {
+  transition: all 0.2s ease 0s;
+}
+
+.BbziR {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.BbziR svg {
+  display: block;
+  fill: rgb(255, 255, 255);
+  transition: fill 0.2s ease 0s;
+}
+
+.eGqsoM {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.hMriYH {
+  position: relative;
+  font-family: inherit;
+  line-height: initial;
+  font-weight: 700;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  transition-property: background-color, color, border-color, opacity, box-shadow;
+  transition-timing-function: ease-out;
+  outline: none;
+  border: 1px solid transparent;
+  margin: 0px;
+  padding: 0px;
+  width: 48px;
+  min-width: 48px;
+  height: 44px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgba(55, 64, 74, 0.3);
+  color: rgba(255, 255, 255, 0.6);
+  border-start-start-radius: 4px;
+  border-start-end-radius: 0px;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 4px;
+}
+
+
+
+.eGqsoM svg {
+  display: block;
+  fill: rgba(255, 255, 255, 0.6);
+  transition: fill 0.2s ease 0s;
+}
+
+.iJgKPa{
+  width: 100%;
+  max-width: 720px;
+  margin: 0px auto;
+  padding-inline: 0px;
+}
+
+.hdHAaO .auto-size-text-area {
+  appearance: none;
+  display: block;
+  width: 100%;
+  font-family: inherit;
+  color: rgb(92, 92, 92);
+  padding-block-start: 0px;
+  padding-block-end: 8px;
+  padding-inline: 0px;
+  border-radius: 0px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  overflow-wrap: break-word;
+  resize: none;
+  overflow: hidden;
+  transition: box-shadow 0.1s ease-out 0s;
+  box-shadow: rgba(92, 92, 92, 0.3) 0px 1px;
+}
+
+.hdHAaO .auto-size-text-area:focus{
+  box-shadow: rgb(92,92,92) 0px 2px;
+}
+
+
+.lbQWmh {
+  flex-shrink: 0;
+  padding-block: 0px;
+  opacity: 1;
+}
+
+
+.hnRbqA {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.hnRbqA svg {
+  display: block;
+  fill: rgb(92, 92, 92);
+  transition: fill 0.2s ease 0s;
+}
+
+.fZxWeB {
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  border-radius: var(--sampler-theme-border-radius);
+  background-color: rgba(92, 92, 92, 0.1);
+  box-shadow: rgba(92, 92, 92, 0.8) 0px 0px 0px 2px inset;
+  color: rgb(92, 92, 92);
+  max-width: 100%;
+  height: inherit;
+  min-height: 40px;
+  outline: 0px;
+  padding-block: 4px;
+  transition-duration: 0.1s;
+  transition-property: background-color, color, border-color, opacity, box-shadow;
+  transition-timing-function: ease-out;
+  width: 100%;
+  word-break: break-word;
+  animation: 0.25s ease 0s 2 normal none running jBPXGM;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.kaQrIV {
+  display: inline-flex;
+  margin-block: 0px -8px;
+  margin-inline: 0px -8px;
+  list-style: none;
+  padding: 0px;
+  flex-flow: wrap;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  width: 100%;
+}
+
+.jILXOM {
+  position: absolute;
+  inset-inline-end: 0px;
+  inset-block: 2px 0px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  outline: none;
+}
+
+.hWOEmS {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.hWOEmS svg {
+  display: block;
+  fill: rgb(92, 92, 92);
+  transition: fill 0.2s ease 0s;
+}
+
+.jhCqZI {
+  display: block;
+  width: 100%;
+  font-family: inherit;
+  color: rgb(92, 92, 92);
+  padding-block-start: 0px;
+  padding-block-end: 8px;
+  padding-inline-start: 0px;
+  padding-inline-end: 32px;
+  border: none;
+  outline: none;
+  border-radius: 0px;
+  appearance: none;
+  background-image: none;
+  background-position: initial;
+  background-size: initial;
+  background-repeat: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  transform: translateZ(0px);
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  line-height: unset;
+  -webkit-text-fill-color: rgb(92, 92, 92);
+  animation: 1ms ease 0s 1 normal none running native-autofill-in;
+  transition: background-color 1e+08s ease 0s, box-shadow 0.1s ease-out 0s;
+  box-shadow: rgba(92, 92, 92, 0.3) 0px 1px;
+  background-color: transparent !important;
+}
+
+.hrsAmW {
+  opacity: 1;
+  display: block !important;
+}
+
+.kyjbP {
+  z-index: 30;
+  position: absolute;
+  width: 100%;
+}
+
+.jgbGqn {
+  transition: max-height 150ms ease-out 0s;
+  overflow: auto;
+  margin: 0px;
+  padding-block-start: var(--spacing-100);
+  padding-block-end: var(--spacing-200);
+  padding-inline: 0px;
+}
+
+.dJkqrm {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    position: absolute;
+    max-height: 7.5rem;
+    z-index: 9100;
+    background-color: white;
+    inline-size: 100%;
+    inset-inline-end: 0;
+    inset-inline-start: 0;
+    overflow-y: auto;
+}
+
+.jCeoNW {
+    position: relative;
+    cursor: pointer;
+}
+
+.njCeoNW{
+    box-sizing: border-box;
+    display: block;
+    overflow: hidden;
+    line-height: initial;
+    padding: 0.5rem 0; 
+    margin: 0 1rem;
+    padding-inline-end: 1.5rem;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.fDiQnR {
+  margin: 0px;
+  max-width: 100%;
+  width: inherit;
+  font-weight: unset;
+  font-size: 20px;
+  line-height: 28px;
+}
