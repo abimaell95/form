@@ -935,41 +935,41 @@ function ThirdSection({
     3: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema Académico?",
-      hint: "Ejemplo: ",
+      hint: "Ejemplo: Notificaciones de deudas, requisitos de matriculación, de prácticas y planificación de horarios",
     },
     4: {
       question: "¿Qué dificultades has encontrado en el uso del Aula Virtual?",
-      hint: "",
+      hint: "Ejemplo: Comunicación con profesores, alerta de tareas o lecciones, horarios de ayudantías etc",
     },
     5: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Ayudantías?",
-      hint: "",
+      hint: "Ejemplo: Configuración directa de horarios al sistema, alertas de registro de entrada y salida, retroalimentación del profesor",
     },
     6: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Consejerias?",
-      hint: "",
+      hint: "Ejemplo: Notificación de consejerías obligatorias, recordatorio de citas agendada, etc.",
     },
     7: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Prácticas (Empresariales - Comunitarias)?",
-      hint: "",
+      hint: "Ejmplo: Comunicación con el tutor, notificacion de plazos de informe, estado de pácticas o rechazo de estas.",
     },
     8: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Certificados?",
-      hint: "",
+      hint: "Ejemplo: Aviso de emisión de Certificado, registro de comprobante de pago, más alternativas de pago",
     },
     9: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Citas Médicas?",
-      hint: "",
+      hint: "Ejemplo: Recordatorio de cita agendada, comentar y calificar el servicio, y ver comentarios de otros estudiantes.",
     },
     10: {
       question:
         "¿Qué dificultades has encontrado en el uso de la Biblioteca Virtual?",
-      hint: "",
+      hint: "Ejemplo: Calificar los libros de acuerdo a su utilidad, reservación de cubículos, catálogos de libros por materias.",
     },
     11: {
       question:
