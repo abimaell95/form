@@ -935,16 +935,16 @@ function ThirdSection({
     3: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema Académico?",
-      hint: "Ejemplo: Notificaciones de deudas, requisitos de matriculación, de prácticas y planificación de horarios",
+      hint: "Ejemplo: Notificaciones de deudas, requisitos de matriculación, de prácticas y planificación de horarios.",
     },
     4: {
       question: "¿Qué dificultades has encontrado en el uso del Aula Virtual?",
-      hint: "Ejemplo: Comunicación con profesores, alerta de tareas o lecciones, horarios de ayudantías etc",
+      hint: "Ejemplo: Comunicación con profesores, alerta de tareas o lecciones, horarios de ayudantías etc.",
     },
     5: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Ayudantías?",
-      hint: "Ejemplo: Configuración directa de horarios al sistema, alertas de registro de entrada y salida, retroalimentación del profesor",
+      hint: "Ejemplo: Configuración directa de horarios al sistema, alertas de registro de entrada y salida, retroalimentación del profesor.",
     },
     6: {
       question:
@@ -954,12 +954,12 @@ function ThirdSection({
     7: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Prácticas (Empresariales - Comunitarias)?",
-      hint: "Ejmplo: Comunicación con el tutor, notificacion de plazos de informe, estado de pácticas o rechazo de estas.",
+      hint: "Ejemplo: Comunicación con el tutor, notificacion de plazos de informe, estado de pácticas o rechazo de estas.",
     },
     8: {
       question:
         "¿Qué dificultades has encontrado en el uso del Sistema de Certificados?",
-      hint: "Ejemplo: Aviso de emisión de Certificado, registro de comprobante de pago, más alternativas de pago",
+      hint: "Ejemplo: Aviso de emisión de Certificado, registro de comprobante de pago, más alternativas de pago.",
     },
     9: {
       question:
@@ -974,7 +974,7 @@ function ThirdSection({
     11: {
       question:
         "Si tuvieras una varita mágica para mejorar los servicios en línea ESPOL y facilitar tu vida académica, ¿Qué añadirías?",
-      hint: "Ejemplos: Un planificador de actividades. Notificación de mis tareas. Registro automático de materias.",
+      hint: "Ejemplo: Un planificador de actividades. Notificación de mis tareas. Registro automático de materias.",
     },
   };
 
