@@ -434,6 +434,39 @@ function ThirdSection ({selectedOption, onChangeAnswer, answers, nextToGreetings
 
   const [loading, setLoading] = useState(false);
 
+  const careerMap = {"Diseño Gráfico":"FADCOM",
+  "Diseño de Productos":"FADCOM",
+  "Producción para Medios de Comunicación":"FADCOM",
+  "Biología":"FCV",
+  "Ingeniería Agrícola y Biológica":"FCV",
+  "Nutrición y Dietética":"FCV",
+  "Matemática":"FCNM",
+  "Ingeniería Química":"FCNM",
+  "Logistica y Transporte":"FCNM",
+  "Estadística":"FCNM",
+  "Turismo":"FCSH",
+  "Auditoría y Control de Gestión":"FCSH",
+  "Economía":"FCSH",
+  "Administración de Empresas":"FCSH",
+  "Arqueología":"FCSH",
+  "Ingeniería Civil":"FICT",
+  "Petróleos":"FICT",
+  "Geología":"FICT",
+  "Minas":"FICT",
+  "Electricidad":"FIEC",
+  "Telemática":"FIEC",
+  "Computación":"FIEC",
+  "Electrónica y Automatización":"FIEC",
+  "Telecomunicaciones":"FIEC",
+  "Mecatrónica":"FIMCP",
+  "Ingeniería Industrial":"FIMCP",
+  "Mecánica":"FIMCP",
+  "Alimentos":"FIMCP",
+  "Materiales":"FIMCP",
+  "Ingeniería Naval":"FIMCM",
+  "Acuicultura":"FIMCM",
+  "Oceanografía":"FIMCM"}
+
   const onChangeInput = (e)=>{
     let idx =  (selectedOption - 3).toString();
     e.preventDefault();
@@ -466,7 +499,8 @@ function ThirdSection ({selectedOption, onChangeAnswer, answers, nextToGreetings
 
   const sendAnswer = ()=>{
     if(!loading){
-      createAnswer(answers)
+      let faculty = careerMap[answers.career]
+      createAnswer({...answers, faculty:faculty})
     }
   }
 
